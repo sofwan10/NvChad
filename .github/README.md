@@ -1,5 +1,5 @@
 <h1 align="center">NvChad</h1>
-
+1
 <div align="center">
 	<a href="https://nvchad.github.io/">Home</a>
   <span> • </span>
